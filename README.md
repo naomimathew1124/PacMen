@@ -1,4 +1,4 @@
-# PacMen-Exercise
+# PacMen-Factory-Exercise
 ## Description
 Insert description
 ## How to run
