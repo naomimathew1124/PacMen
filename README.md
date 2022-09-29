@@ -6,7 +6,6 @@ Insert instructions
 ## Future Improvements
 Insert Future Improvements
 ## License Information
-Insert License Information
 MIT License
 
 Copyright (c) 2022 Edar
